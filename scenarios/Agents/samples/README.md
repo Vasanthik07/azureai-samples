@@ -2,10 +2,11 @@
 ---
 page_type: sample
 languages:
-  - python
+- python
 products:
-  - azure
-  - microsoft-365
+- ai-services
+- azure-openai
+description: Example description.
 ---
 
 This QuickStart demonstrates how to quickly set up your first agent with Azure AI Agent Service.
